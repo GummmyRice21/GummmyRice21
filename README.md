@@ -6,7 +6,7 @@
 <h3> -I currently attend the Brooklyn STEAM center as a Full stack Developent student.<h3>
 <h3> 
 <h3>-I attend The Hight School For Global CitizenShip<h3>
-- 📫 How to reach me:  <a href="swilliams4@brooklynsteamcenter.org">Gmail.</a>
+- 📫 How to reach me: swilliams4@brooklynsteamcenter.org
 <h3>
 <br>
 <h3 align="left">Connect with me:</h3>
