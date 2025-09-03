@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shimeon Williams</h1>
 <h2 align="center">A amateur developer from Guyana, Living in New York City </h3>
 <h1>
-<h3> -I currently attend the Brooklyn STEAM center as a Full stack Developent student.<h3>
+<h3> -I currently attend New York Institue Of Technology as a Computer Imformations Major.<h3>
 <h3> 
 <h3>-I attend The Hight School For Global CitizenShip<h3>
 - 📫 How to reach me: shimeonwilliams@gmail.com
